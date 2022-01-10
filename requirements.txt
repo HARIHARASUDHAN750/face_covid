@@ -4,7 +4,7 @@ decorator==4.4.1
 Django==3.1
 gunicorn==20.0.4
 Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.0
+keras-preprocessing~=1.1.2
 numpy==1.18.1
 Pillow==6.2.1
 tensorflow==2.5.0
